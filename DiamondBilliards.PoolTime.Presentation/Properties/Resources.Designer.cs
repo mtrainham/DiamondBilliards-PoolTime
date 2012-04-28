@@ -59,54 +59,5 @@ namespace DiamondBilliards.PoolTime.Presentation.Properties {
                 resourceCulture = value;
             }
         }
-        
-        internal static System.Drawing.Bitmap bglogo {
-            get {
-                object obj = ResourceManager.GetObject("bglogo", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap diamondtable1_active {
-            get {
-                object obj = ResourceManager.GetObject("diamondtable1_active", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap diamondtable1_inactive {
-            get {
-                object obj = ResourceManager.GetObject("diamondtable1_inactive", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap diamondtable2_active {
-            get {
-                object obj = ResourceManager.GetObject("diamondtable2_active", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap diamondtable2_inactive {
-            get {
-                object obj = ResourceManager.GetObject("diamondtable2_inactive", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap logo {
-            get {
-                object obj = ResourceManager.GetObject("logo", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap MainIcon {
-            get {
-                object obj = ResourceManager.GetObject("MainIcon", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }

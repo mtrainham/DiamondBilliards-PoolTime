@@ -196,11 +196,11 @@ namespace DiamondBilliards.PoolTime.Business
                 case 0:
                     return 0.0M;
                 case 1:
-                    return 4.0M;
+                    return 3.0M;
                 case 2:
-                    return 3.5M;
+                    return 2.5M;
                 default:
-                    return 10.0M / Convert.ToDecimal( numPlayers );
+                    return 8.0M / Convert.ToDecimal( numPlayers );
             }
         }
 

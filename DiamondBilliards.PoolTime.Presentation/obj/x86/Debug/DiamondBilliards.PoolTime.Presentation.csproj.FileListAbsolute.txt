@@ -1,0 +1,90 @@
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.sdf
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.exe
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\bin\Debug\data.dll
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\bin\Debug\logic.dll
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\bin\Debug\logic.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\bin\Debug\data.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\MainWindow.baml
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\App.g.cs
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime_Content.g.cs
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime_MarkupCompile.cache
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime.g.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\DiamondBilliards.PoolTime.Presentation.Properties.Resources.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime.exe
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_WPF\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime.exe
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.sdf
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.exe
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\data.dll
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\logic.dll
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\logic.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\data.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\MainWindow.baml
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\App.g.cs
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime_Content.g.cs
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime_MarkupCompile.cache
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime.g.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\DiamondBilliards.PoolTime.Presentation.Properties.Resources.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTable.baml
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTable.g.cs
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime_MarkupCompile.lref
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime.exe
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime.pdb
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.sdf
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.exe
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.pdb
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\data.dll
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\logic.dll
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\logic.pdb
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\data.pdb
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTable.baml
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTable.g.cs
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\App.g.cs
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime_Content.g.cs
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime_MarkupCompile.cache
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime_MarkupCompile.lref
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\MainWindow.baml
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime.g.resources
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\DiamondBilliards.PoolTime.Presentation.Properties.Resources.resources
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime.exe
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime.pdb
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.sdf
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.exe
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.pdb
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\data.dll
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\logic.dll
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\logic.pdb
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\bin\Debug\data.pdb
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTable.baml
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTable.g.cs
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\App.g.cs
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime_Content.g.cs
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime_MarkupCompile.cache
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime_MarkupCompile.lref
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\MainWindow.baml
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime.g.resources
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\DiamondBilliards.PoolTime.Presentation.Properties.Resources.resources
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MTrainham\Dropbox\Projects\PoolTime\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MTrainham\Google Drive\A+\mitch\PoolTime_versions\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime.exe
+C:\Users\MTrainham\Google Drive\A+\mitch\PoolTime_versions\WPF - 2.0.0.0\DiamondBilliards.PoolTime.Presentation\obj\x86\Debug\PoolTime.pdb
