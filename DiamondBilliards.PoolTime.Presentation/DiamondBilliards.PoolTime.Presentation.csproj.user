@@ -3,7 +3,7 @@
   <PropertyGroup>
     <PublishUrlHistory>ftp://66.147.237.116/public_html/|ftp://66.147.237.116/public_html/pooltime/|ftp://66.147.237.116/pooltime/|ftp://66.147.237.116/|66.147.237.116\</PublishUrlHistory>
     <InstallUrlHistory>http://www.pooltime.us/|http://www.tourney.ws/pooltime/</InstallUrlHistory>
-    <SupportUrlHistory>http://www.pooltime.us|http://www.tourney.ws/pooltime/index.php|http://www.tourney.ws</SupportUrlHistory>
+    <SupportUrlHistory>http://www.tourney.ws/pooltime/index.php|http://www.tourney.ws</SupportUrlHistory>
     <UpdateUrlHistory>
     </UpdateUrlHistory>
     <BootstrapperUrlHistory>

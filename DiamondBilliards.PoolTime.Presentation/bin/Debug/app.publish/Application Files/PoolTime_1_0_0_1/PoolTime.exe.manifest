@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
-  <asmv1:assemblyIdentity name="PoolTime.exe" version="1.0.0.0" publicKeyToken="3590f5bd9d1ed4d9" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="PoolTime.exe" version="1.0.0.1" publicKeyToken="3590f5bd9d1ed4d9" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="pooltime48.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -58,38 +58,38 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="data.dll" size="10752">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="data.dll" size="11264">
       <assemblyIdentity name="data" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>EwSnFI0nB2tTsGjUWrCaDIU0n2Y=</dsig:DigestValue>
+        <dsig:DigestValue>mE2NmcC0+NyF8EnQ0uNrKlohvsA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="logic.dll" size="19968">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="logic.dll" size="20992">
       <assemblyIdentity name="logic" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>FZjibdIKy4+6UkkicM7YFnLdiuU=</dsig:DigestValue>
+        <dsig:DigestValue>JFl2uteR0Q72n//qhVUD+Z11Ivo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PoolTime.exe" size="446976">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PoolTime.exe" size="450560">
       <assemblyIdentity name="PoolTime" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>q5H4InuOSB/8MtDBMHlQ9zaDoP8=</dsig:DigestValue>
+        <dsig:DigestValue>nfqPK9C281fciw2BQuOk+U3NEwE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -138,4 +138,4 @@
       <dsig:DigestValue>pfPiE6x9/NSi5n4pwtmpPsUuwAs=</dsig:DigestValue>
     </hash>
   </file>
-<publisherIdentity name="CN=owner-PC\owner" issuerKeyHash="e8bda130d7a30400b5d519740b7b61c1f853053f" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>8K842LMV+HSfGEk2VDbxkGFpH5U=</DigestValue></Reference></SignedInfo><SignatureValue>hjIw3fXRRJMmHsrwh1bDyCrGJKB61IBdPXbRHp1753FCB6DBgUA/D1B1fgqrE9nZhfei3a4TIZ4bD6Tr05voLLVKzkxl0n1FTUuC5iZZ667l6sXuTiHxeypK1Ozeq1sFZQlNzLQ2dcpcKzdiAi3/5oqWcA5B4OBOvsnACmTKZ00=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>syBz3X/ODFuEmOoO8B7sQPqZjnmTwkn/BIcYhkMKN1eaEzxZ8Z7bi5gJPmxuEMQga3H5PMRA7IiUECkcZP452WpTf6YkwT5jh7gYqMLeJRvenDpWGlQpCcGYnG2AqLcnU53VsjDPZBZ+/me7TfpkRyCZpXStbKwaY9ShdpantQk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="951f696190f136543649189f74f815b3d838aff0" Description="" Url=""><as:assemblyIdentity name="PoolTime.exe" version="1.0.0.0" publicKeyToken="3590f5bd9d1ed4d9" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=owner-PC\owner</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>+/HWJ1Libn6lrACbNArg7Bc/7RY=</DigestValue></Reference></SignedInfo><SignatureValue>MH+AME2rc64kedcC4EgpJHjKxBF8LqHKk0YqAHn8ihSgaQ5i7n9v6D1ymglttrpvuv9CXEcD3tD0cNLOfAv2LY6P8rqZrCsOoDAUExJczRoCMZNRn/4yZwMxDmEoQrnVWFOX5FGJHwQi/G8xC0J16RA6RNRs1v/yazF0+WuNuAE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>syBz3X/ODFuEmOoO8B7sQPqZjnmTwkn/BIcYhkMKN1eaEzxZ8Z7bi5gJPmxuEMQga3H5PMRA7IiUECkcZP452WpTf6YkwT5jh7gYqMLeJRvenDpWGlQpCcGYnG2AqLcnU53VsjDPZBZ+/me7TfpkRyCZpXStbKwaY9ShdpantQk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQk0svmikE4oJDiYpkUvmw4zANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDHhwAbwB3AG4AZQByAC0AUABDAFwAbwB3AG4AZQByMB4XDTEwMDYwMzIxMzYwOVoXDTExMDYwNDAzMzYwOVowJzElMCMGA1UEAx4cAG8AdwBuAGUAcgAtAFAAQwBcAG8AdwBuAGUAcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsyBz3X/ODFuEmOoO8B7sQPqZjnmTwkn/BIcYhkMKN1eaEzxZ8Z7bi5gJPmxuEMQga3H5PMRA7IiUECkcZP452WpTf6YkwT5jh7gYqMLeJRvenDpWGlQpCcGYnG2AqLcnU53VsjDPZBZ+/me7TfpkRyCZpXStbKwaY9ShdpantQkCAwEAATANBgkqhkiG9w0BAQUFAAOBgQCTu3xnhiK01DtB5tYFp97f32Tlbdsc+23SthZQlXFDFT5ZbzeO4lpG3px6autKFek18w4A9inm1hURg/UvOyu2NGBHzOeblU4js/BGaXzE43biLWA84ZWMGTECjaXojlopPkaWM11vODwXvAgalCjst/EiKHdGVG02tqlWg/ugww==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=owner-PC\owner" issuerKeyHash="e8bda130d7a30400b5d519740b7b61c1f853053f" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>1xHihtO1L5XCWPs0oxNCX5hCFNk=</DigestValue></Reference></SignedInfo><SignatureValue>dfKQCeWmwKOGIiIL3hcETTll2MGYTl87Q8yROj+5S5url00f3vr2M6Mdg9ZHEd4mKwtkcXjlr/s1k6VT0BjC8vZdSEj1JH40dJh2ZCjyP1XkkdiuMTDBsVCXICEhiOxhNlQwbdqyKCz5iz0jS6Sv9ES5+bI2kzYqo8Qou8U0ZkY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>syBz3X/ODFuEmOoO8B7sQPqZjnmTwkn/BIcYhkMKN1eaEzxZ8Z7bi5gJPmxuEMQga3H5PMRA7IiUECkcZP452WpTf6YkwT5jh7gYqMLeJRvenDpWGlQpCcGYnG2AqLcnU53VsjDPZBZ+/me7TfpkRyCZpXStbKwaY9ShdpantQk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d91442985f4213a334fb58c2952fb5d386e211d7" Description="" Url=""><as:assemblyIdentity name="PoolTime.exe" version="1.0.0.1" publicKeyToken="3590f5bd9d1ed4d9" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=owner-PC\owner</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>uVJCV+xVrylvAeoGzGC5RPzLO/c=</DigestValue></Reference></SignedInfo><SignatureValue>AGuvn5eNp1v9Mmd94whsYNGnnnmDVJlylyqx1ys9kM7NzP3Im4RGVHIrkT4pT/mMw353UxAgLZeZZ8sxqcQzCuu8FQ0snHeXr1ys6bRRjy2eJ6m2J91hW+12o19duL2s4Zt1NWhS90ObK3N1F0CbEM9ikypmKeh6cUCjxL1B61I=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>syBz3X/ODFuEmOoO8B7sQPqZjnmTwkn/BIcYhkMKN1eaEzxZ8Z7bi5gJPmxuEMQga3H5PMRA7IiUECkcZP452WpTf6YkwT5jh7gYqMLeJRvenDpWGlQpCcGYnG2AqLcnU53VsjDPZBZ+/me7TfpkRyCZpXStbKwaY9ShdpantQk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQk0svmikE4oJDiYpkUvmw4zANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDHhwAbwB3AG4AZQByAC0AUABDAFwAbwB3AG4AZQByMB4XDTEwMDYwMzIxMzYwOVoXDTExMDYwNDAzMzYwOVowJzElMCMGA1UEAx4cAG8AdwBuAGUAcgAtAFAAQwBcAG8AdwBuAGUAcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsyBz3X/ODFuEmOoO8B7sQPqZjnmTwkn/BIcYhkMKN1eaEzxZ8Z7bi5gJPmxuEMQga3H5PMRA7IiUECkcZP452WpTf6YkwT5jh7gYqMLeJRvenDpWGlQpCcGYnG2AqLcnU53VsjDPZBZ+/me7TfpkRyCZpXStbKwaY9ShdpantQkCAwEAATANBgkqhkiG9w0BAQUFAAOBgQCTu3xnhiK01DtB5tYFp97f32Tlbdsc+23SthZQlXFDFT5ZbzeO4lpG3px6autKFek18w4A9inm1hURg/UvOyu2NGBHzOeblU4js/BGaXzE43biLWA84ZWMGTECjaXojlopPkaWM11vODwXvAgalCjst/EiKHdGVG02tqlWg/ugww==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

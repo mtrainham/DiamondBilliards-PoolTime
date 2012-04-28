@@ -8,8 +8,8 @@ C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010_.NET3.5\DiamondBi
 C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010_.NET3.5\DiamondBilliards.PoolTime.Data\obj\Release\ResolveAssemblyReference.cache
 C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010_.NET3.5\DiamondBilliards.PoolTime.Data\obj\Release\data.dll
 C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010_.NET3.5\DiamondBilliards.PoolTime.Data\obj\Release\data.pdb
-C:\Users\MTrainham\Google Drive\A+\mitch\PoolTime\DiamondBilliards.PoolTime.Data\bin\Release\data.dll
-C:\Users\MTrainham\Google Drive\A+\mitch\PoolTime\DiamondBilliards.PoolTime.Data\bin\Release\data.pdb
-C:\Users\MTrainham\Google Drive\A+\mitch\PoolTime\DiamondBilliards.PoolTime.Data\obj\Release\ResolveAssemblyReference.cache
-C:\Users\MTrainham\Google Drive\A+\mitch\PoolTime\DiamondBilliards.PoolTime.Data\obj\Release\data.dll
-C:\Users\MTrainham\Google Drive\A+\mitch\PoolTime\DiamondBilliards.PoolTime.Data\obj\Release\data.pdb
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Data\bin\Release\data.dll
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Data\bin\Release\data.pdb
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Data\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Data\obj\Release\data.dll
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Data\obj\Release\data.pdb

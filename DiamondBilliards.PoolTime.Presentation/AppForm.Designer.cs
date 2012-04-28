@@ -74,7 +74,7 @@
             this.helpToolStripMenuItem} );
             this.menuStrip1.Location = new System.Drawing.Point( 0, 0 );
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size( 1264, 24 );
+            this.menuStrip1.Size = new System.Drawing.Size( 1020, 24 );
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -209,8 +209,8 @@
             // splitContainer1.Panel2
             // 
             this.splitContainer1.Panel2.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.splitContainer1.Size = new System.Drawing.Size( 1264, 725 );
-            this.splitContainer1.SplitterDistance = 906;
+            this.splitContainer1.Size = new System.Drawing.Size( 1020, 720 );
+            this.splitContainer1.SplitterDistance = 731;
             this.splitContainer1.TabIndex = 3;
             // 
             // table11
@@ -220,7 +220,7 @@
             this.table11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.table11.IsRotated = true;
             this.table11.IsSelected = false;
-            this.table11.Location = new System.Drawing.Point( 346, 126 );
+            this.table11.Location = new System.Drawing.Point( 258, 124 );
             this.table11.Name = "table11";
             this.table11.Size = new System.Drawing.Size( 73, 127 );
             this.table11.Status = DiamondBilliards.PoolTime.Data.TableStatus.Inactive;
@@ -235,7 +235,7 @@
             this.table1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.table1.IsRotated = false;
             this.table1.IsSelected = false;
-            this.table1.Location = new System.Drawing.Point( 620, 522 );
+            this.table1.Location = new System.Drawing.Point( 532, 520 );
             this.table1.Name = "table1";
             this.table1.Size = new System.Drawing.Size( 127, 73 );
             this.table1.Status = DiamondBilliards.PoolTime.Data.TableStatus.Inactive;
@@ -250,7 +250,7 @@
             this.table2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.table2.IsRotated = false;
             this.table2.IsSelected = false;
-            this.table2.Location = new System.Drawing.Point( 620, 423 );
+            this.table2.Location = new System.Drawing.Point( 532, 421 );
             this.table2.Name = "table2";
             this.table2.Size = new System.Drawing.Size( 127, 73 );
             this.table2.Status = DiamondBilliards.PoolTime.Data.TableStatus.Inactive;
@@ -265,7 +265,7 @@
             this.table3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.table3.IsRotated = false;
             this.table3.IsSelected = false;
-            this.table3.Location = new System.Drawing.Point( 620, 324 );
+            this.table3.Location = new System.Drawing.Point( 532, 322 );
             this.table3.Name = "table3";
             this.table3.Size = new System.Drawing.Size( 127, 73 );
             this.table3.Status = DiamondBilliards.PoolTime.Data.TableStatus.Inactive;
@@ -280,7 +280,7 @@
             this.table4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.table4.IsRotated = false;
             this.table4.IsSelected = false;
-            this.table4.Location = new System.Drawing.Point( 620, 225 );
+            this.table4.Location = new System.Drawing.Point( 532, 223 );
             this.table4.Name = "table4";
             this.table4.Size = new System.Drawing.Size( 127, 73 );
             this.table4.Status = DiamondBilliards.PoolTime.Data.TableStatus.Inactive;
@@ -295,7 +295,7 @@
             this.table5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.table5.IsRotated = false;
             this.table5.IsSelected = false;
-            this.table5.Location = new System.Drawing.Point( 620, 126 );
+            this.table5.Location = new System.Drawing.Point( 532, 124 );
             this.table5.Name = "table5";
             this.table5.Size = new System.Drawing.Size( 127, 73 );
             this.table5.Status = DiamondBilliards.PoolTime.Data.TableStatus.Inactive;
@@ -310,7 +310,7 @@
             this.table13.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.table13.IsRotated = false;
             this.table13.IsSelected = false;
-            this.table13.Location = new System.Drawing.Point( 155, 331 );
+            this.table13.Location = new System.Drawing.Point( 67, 329 );
             this.table13.Name = "table13";
             this.table13.Size = new System.Drawing.Size( 127, 73 );
             this.table13.Status = DiamondBilliards.PoolTime.Data.TableStatus.Inactive;
@@ -325,7 +325,7 @@
             this.table12.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.table12.IsRotated = false;
             this.table12.IsSelected = false;
-            this.table12.Location = new System.Drawing.Point( 155, 445 );
+            this.table12.Location = new System.Drawing.Point( 67, 443 );
             this.table12.Name = "table12";
             this.table12.Size = new System.Drawing.Size( 127, 73 );
             this.table12.Status = DiamondBilliards.PoolTime.Data.TableStatus.Inactive;
@@ -340,7 +340,7 @@
             this.table14.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.table14.IsRotated = false;
             this.table14.IsSelected = false;
-            this.table14.Location = new System.Drawing.Point( 155, 217 );
+            this.table14.Location = new System.Drawing.Point( 67, 215 );
             this.table14.Name = "table14";
             this.table14.Size = new System.Drawing.Size( 127, 73 );
             this.table14.Status = DiamondBilliards.PoolTime.Data.TableStatus.Inactive;
@@ -355,7 +355,7 @@
             this.table6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.table6.IsRotated = true;
             this.table6.IsSelected = false;
-            this.table6.Location = new System.Drawing.Point( 483, 468 );
+            this.table6.Location = new System.Drawing.Point( 395, 466 );
             this.table6.Name = "table6";
             this.table6.Size = new System.Drawing.Size( 73, 127 );
             this.table6.Status = DiamondBilliards.PoolTime.Data.TableStatus.Inactive;
@@ -371,7 +371,7 @@
             this.table8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.table8.IsRotated = true;
             this.table8.IsSelected = false;
-            this.table8.Location = new System.Drawing.Point( 483, 126 );
+            this.table8.Location = new System.Drawing.Point( 395, 124 );
             this.table8.Name = "table8";
             this.table8.Size = new System.Drawing.Size( 73, 127 );
             this.table8.Status = DiamondBilliards.PoolTime.Data.TableStatus.Inactive;
@@ -386,7 +386,7 @@
             this.table10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.table10.IsRotated = true;
             this.table10.IsSelected = false;
-            this.table10.Location = new System.Drawing.Point( 346, 297 );
+            this.table10.Location = new System.Drawing.Point( 258, 295 );
             this.table10.Name = "table10";
             this.table10.Size = new System.Drawing.Size( 73, 127 );
             this.table10.Status = DiamondBilliards.PoolTime.Data.TableStatus.Inactive;
@@ -402,7 +402,7 @@
             this.table9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.table9.IsRotated = true;
             this.table9.IsSelected = false;
-            this.table9.Location = new System.Drawing.Point( 346, 468 );
+            this.table9.Location = new System.Drawing.Point( 258, 466 );
             this.table9.Name = "table9";
             this.table9.Size = new System.Drawing.Size( 73, 127 );
             this.table9.Status = DiamondBilliards.PoolTime.Data.TableStatus.Inactive;
@@ -417,7 +417,7 @@
             this.table7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.table7.IsRotated = true;
             this.table7.IsSelected = false;
-            this.table7.Location = new System.Drawing.Point( 483, 297 );
+            this.table7.Location = new System.Drawing.Point( 395, 295 );
             this.table7.Name = "table7";
             this.table7.Size = new System.Drawing.Size( 73, 127 );
             this.table7.Status = DiamondBilliards.PoolTime.Data.TableStatus.Inactive;
@@ -427,9 +427,9 @@
             // 
             // statusStrip1
             // 
-            this.statusStrip1.Location = new System.Drawing.Point( 0, 727 );
+            this.statusStrip1.Location = new System.Drawing.Point( 0, 722 );
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size( 1264, 22 );
+            this.statusStrip1.Size = new System.Drawing.Size( 1020, 22 );
             this.statusStrip1.TabIndex = 5;
             this.statusStrip1.Text = "statusStrip1";
             // 
@@ -437,7 +437,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF( 6F, 13F );
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size( 1264, 749 );
+            this.ClientSize = new System.Drawing.Size( 1020, 744 );
             this.Controls.Add( this.statusStrip1 );
             this.Controls.Add( this.splitContainer1 );
             this.Controls.Add( this.menuStrip1 );
@@ -445,7 +445,7 @@
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "AppForm";
-            this.Text = "Diamond Billiards - Pool Time";
+            this.Text = "Pool Time - Diamond Billiards";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler( this.AppForm_Load );
             this.menuStrip1.ResumeLayout( false );

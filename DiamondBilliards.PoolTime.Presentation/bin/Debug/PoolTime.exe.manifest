@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
-  <asmv1:assemblyIdentity name="PoolTime.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="PoolTime.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="pooltime48.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="PoolTime" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="PoolTime" version="1.0.0.1" language="neutral" processorArchitecture="msil" />
     <commandLine file="PoolTime.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -65,7 +65,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>mE2NmcC0+NyF8EnQ0uNrKlohvsA=</dsig:DigestValue>
+        <dsig:DigestValue>wju58Xjj5/TAeEXxofxp/mpbepM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -77,19 +77,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>UMCNsD4OShD6pHn1GajAJzk02DE=</dsig:DigestValue>
+        <dsig:DigestValue>5bcQWxk6p1xnGldHKsNYb5O3OQQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PoolTime.exe" size="450560">
-      <assemblyIdentity name="PoolTime" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PoolTime.exe" size="460800">
+      <assemblyIdentity name="PoolTime" version="1.0.0.1" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>WiLQJqh94MWqajEqPIiZOgpeBx4=</dsig:DigestValue>
+        <dsig:DigestValue>0hkqRg1tuL7hioCPyWfIE9vXCTM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -117,7 +117,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>/GNcFVyu9zOIx+InB+/XJQtedwo=</dsig:DigestValue>
+      <dsig:DigestValue>+AbOPhHiAvjbAzG0nor2tiDW9Fw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="pooltime48.ico" size="9662">

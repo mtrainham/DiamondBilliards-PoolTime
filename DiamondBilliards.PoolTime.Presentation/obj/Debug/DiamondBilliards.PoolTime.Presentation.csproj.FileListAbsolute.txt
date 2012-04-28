@@ -78,3 +78,104 @@ C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010_.NET3.5\DiamondBi
 C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010_.NET3.5\DiamondBilliards.PoolTime.Presentation\obj\Debug\GenerateResource.write.1.tlog
 C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010_.NET3.5\DiamondBilliards.PoolTime.Presentation\obj\Debug\PoolTime.exe.manifest
 C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010_.NET3.5\DiamondBilliards.PoolTime.Presentation\obj\Debug\PoolTime.application
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.exe.config
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\PoolTime.exe
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\PoolTime.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.sdf
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.exe.manifest
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.application
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.exe
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\data.dll
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\logic.dll
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\logic.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\data.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.AboutBox.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.AddTableForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.AppForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.CashOutTableForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.WebBrowserForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.MainDetailsForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.EditTableForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.MovePlayersForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.PoolTableControl.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.Properties.Resources.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.TableDetailsForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.ViewPlayerForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\GenerateResource.read.6.tlog
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\PoolTime.exe.manifest
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\New - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\PoolTime.application
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.exe.config
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\PoolTime.exe
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\PoolTime.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.sdf
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.exe.manifest
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.application
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.exe
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\data.dll
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\logic.dll
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\logic.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\data.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.AboutBox.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.AddTableForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.AppForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.CashOutTableForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.WebBrowserForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.MainDetailsForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.EditTableForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.MovePlayersForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.PoolTableControl.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.Properties.Resources.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.TableDetailsForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.ViewPlayerForm.resources
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\GenerateResource.read.6.tlog
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\PoolTime.exe.manifest
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\PoolTime.application
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.exe.config
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\PoolTime.exe
+C:\Users\MTrainham\Programming\C#\Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\PoolTime.pdb
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.exe.config
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\PoolTime.exe
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\PoolTime.pdb
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.AboutBox.resources
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.AddTableForm.resources
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.AppForm.resources
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.CashOutTableForm.resources
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.WebBrowserForm.resources
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.MainDetailsForm.resources
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.EditTableForm.resources
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.MovePlayersForm.resources
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.PoolTableControl.resources
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.Properties.Resources.resources
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.TableDetailsForm.resources
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\DiamondBilliards.PoolTime.Presentation.ViewPlayerForm.resources
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\GenerateResource.read.6.tlog
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\ResGen.read.1.tlog
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\ResGen.write.1.tlog
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.sdf
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.exe.manifest
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.application
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.exe
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\PoolTime.pdb
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\data.dll
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\logic.dll
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\logic.pdb
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\bin\Debug\data.pdb
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\PoolTime.exe.manifest
+C:\Users\MTrainham\Google Drive\My Projects\PoolTime\Current - 1.0.0.1\DiamondBilliards.PoolTime.Presentation\obj\Debug\PoolTime.application
