@@ -1,0 +1,21 @@
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010\DiamondBilliards.PoolTime.Business\bin\Release\logic.dll
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010\DiamondBilliards.PoolTime.Business\bin\Release\logic.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010\DiamondBilliards.PoolTime.Business\bin\Release\data.dll
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010\DiamondBilliards.PoolTime.Business\bin\Release\data.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010\DiamondBilliards.PoolTime.Business\obj\Release\ResolveAssemblyReference.cache
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010\DiamondBilliards.PoolTime.Business\obj\Release\logic.dll
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010\DiamondBilliards.PoolTime.Business\obj\Release\logic.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010_.NET3.5\DiamondBilliards.PoolTime.Business\bin\Release\logic.dll
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010_.NET3.5\DiamondBilliards.PoolTime.Business\bin\Release\logic.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010_.NET3.5\DiamondBilliards.PoolTime.Business\bin\Release\data.dll
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010_.NET3.5\DiamondBilliards.PoolTime.Business\bin\Release\data.pdb
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010_.NET3.5\DiamondBilliards.PoolTime.Business\obj\Release\ResolveAssemblyReference.cache
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010_.NET3.5\DiamondBilliards.PoolTime.Business\obj\Release\logic.dll
+C:\Users\owner\Desktop\Programming\C#\Projects\PoolTime_VS2010_.NET3.5\DiamondBilliards.PoolTime.Business\obj\Release\logic.pdb
+C:\Users\MTrainham\Google Drive\A+\mitch\PoolTime\DiamondBilliards.PoolTime.Business\bin\Release\logic.dll
+C:\Users\MTrainham\Google Drive\A+\mitch\PoolTime\DiamondBilliards.PoolTime.Business\bin\Release\logic.pdb
+C:\Users\MTrainham\Google Drive\A+\mitch\PoolTime\DiamondBilliards.PoolTime.Business\bin\Release\data.dll
+C:\Users\MTrainham\Google Drive\A+\mitch\PoolTime\DiamondBilliards.PoolTime.Business\bin\Release\data.pdb
+C:\Users\MTrainham\Google Drive\A+\mitch\PoolTime\DiamondBilliards.PoolTime.Business\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MTrainham\Google Drive\A+\mitch\PoolTime\DiamondBilliards.PoolTime.Business\obj\Release\logic.dll
+C:\Users\MTrainham\Google Drive\A+\mitch\PoolTime\DiamondBilliards.PoolTime.Business\obj\Release\logic.pdb

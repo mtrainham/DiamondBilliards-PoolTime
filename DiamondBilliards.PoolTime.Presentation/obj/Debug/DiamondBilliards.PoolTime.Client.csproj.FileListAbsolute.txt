@@ -1,0 +1,2 @@
+C:\Users\owner\Desktop\Programming\C#\myProjects\PoolTime\PoolTime\obj\Debug\DiamondBilliards.PoolTime.exe
+C:\Users\owner\Desktop\Programming\C#\myProjects\PoolTime\PoolTime\obj\Debug\DiamondBilliards.PoolTime.pdb
