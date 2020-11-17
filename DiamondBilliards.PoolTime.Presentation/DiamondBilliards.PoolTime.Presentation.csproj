@@ -166,11 +166,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DiamondBilliards.PoolTime.Business\DiamondBilliards.PoolTime.Business.csproj">
-      <Project>{A48F8391-CEFB-4DD0-978C-04EFEDA3800A}</Project>
+      <Project>{a48f8391-cefb-4dd0-978c-04efeda3800a}</Project>
       <Name>DiamondBilliards.PoolTime.Business</Name>
     </ProjectReference>
     <ProjectReference Include="..\DiamondBilliards.PoolTime.Data\DiamondBilliards.PoolTime.Data.csproj">
-      <Project>{75FD1053-3FC7-46A0-8110-386A17469C14}</Project>
+      <Project>{75fd1053-3fc7-46a0-8110-386a17469c14}</Project>
       <Name>DiamondBilliards.PoolTime.Data</Name>
     </ProjectReference>
   </ItemGroup>

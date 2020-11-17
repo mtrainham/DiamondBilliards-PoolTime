@@ -7,6 +7,7 @@
  * of tables and data from the PoolTimeDB database.
  *********************************************************************/
 
+using System.Data;
 using System.Data.Linq;
 using System.Data.Linq.Mapping;
 
@@ -25,6 +26,8 @@ namespace DiamondBilliards.PoolTime.Data
         // constructor that calls base class constructor
         public PoolTimeDataContext()
             : base("Data Source=|DataDirectory|PoolTime.sdf") { }
+
+        public PoolTimeDataContext(IDbConnection connection) : base(connection) { }
 
         // validate table objects just before SubmitChanges is called
         public void Validate()

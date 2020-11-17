@@ -1,9 +1,0 @@
-C:\Users\owner\Desktop\Programming\C#\myProjects\PoolTime\PoolTime\bin\Debug\DiamondBilliards.PoolTime.exe
-C:\Users\owner\Desktop\Programming\C#\myProjects\PoolTime\PoolTime\bin\Debug\DiamondBilliards.PoolTime.pdb
-C:\Users\owner\Desktop\Programming\C#\myProjects\PoolTime\PoolTime\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\owner\Desktop\Programming\C#\myProjects\PoolTime\PoolTime\obj\Debug\DiamondBilliards.PoolTime.Properties.Resources.resources
-C:\Users\owner\Desktop\Programming\C#\myProjects\PoolTime\PoolTime\obj\Debug\DiamondBilliards.PoolTime.csproj.GenerateResource.Cache
-C:\Users\owner\Desktop\Programming\C#\myProjects\PoolTime\PoolTime\obj\Debug\DiamondBilliards.PoolTime.exe
-C:\Users\owner\Desktop\Programming\C#\myProjects\PoolTime\PoolTime\obj\Debug\DiamondBilliards.PoolTime.pdb
-C:\Users\owner\Desktop\Programming\C#\myProjects\PoolTime\PoolTime\obj\Debug\DiamondBilliards.PoolTime.AboutBox.resources
-C:\Users\owner\Desktop\Programming\C#\myProjects\PoolTime\PoolTime\obj\Debug\DiamondBilliards.PoolTime.AppForm.resources

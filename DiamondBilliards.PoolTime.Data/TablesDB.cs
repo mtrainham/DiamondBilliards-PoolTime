@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlServerCe;
 using System.Linq;
 using System.Text;
 
@@ -16,7 +17,15 @@ namespace DiamondBilliards.PoolTime.Data
 
         static TablesDB()
         {
-            _dataContext = new PoolTimeDataContext();
+          var connectionString = "Data Source=|DataDirectory|PoolTime.sdf";
+          
+          //var engine = new SqlCeEngine(connectionString);
+          //
+          //engine.Upgrade();
+
+          var conn = new System.Data.SqlServerCe.SqlCeConnection(connectionString);
+
+          _dataContext = new PoolTimeDataContext(conn);
         }
     }
 }
